@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Yosef/CLionProjects/MTM/ParkingLotTypes.h
+string
+-
+
+C:/Users/Yosef/CLionProjects/MTM/ParkingSpot.cpp
+ParkingSpot.h
+C:/Users/Yosef/CLionProjects/MTM/ParkingSpot.h
+
+C:/Users/Yosef/CLionProjects/MTM/ParkingSpot.h
+ParkingLotTypes.h
+C:/Users/Yosef/CLionProjects/MTM/ParkingLotTypes.h
+iostream
+-
+

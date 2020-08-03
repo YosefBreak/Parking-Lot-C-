@@ -1,0 +1,3 @@
+C:/Users/Yosef/CLionProjects/MTM/cmake-build-debug/CMakeFiles/MTM.dir
+C:/Users/Yosef/CLionProjects/MTM/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yosef/CLionProjects/MTM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
